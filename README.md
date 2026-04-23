@@ -36,6 +36,8 @@ You can change the database name in config file as per your setup.
 - JavaScript
 - XAMPP (for local server)
 
+## Screenshots
+
 ##  How to Run the Project
 
 1. Install XAMPP
